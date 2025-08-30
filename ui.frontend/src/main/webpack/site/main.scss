@@ -1,5 +1,9 @@
-
 @import 'variables';
 @import 'base';
+@import "bootstrap";
 @import '../components/**/*.scss';
 @import './styles/*.scss';
+
+body {
+    background: green;
+}
