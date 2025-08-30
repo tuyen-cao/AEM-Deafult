@@ -114,4 +114,4 @@ Included in the ui.frontend module is a [webpack-dev-server](https://github.com/
 #### FE NOTE
 1. VSCode AEM Sync addon de export lên AEM server
 2. http://localhost:4502/system/console/configMgr tìm Adobe Granite HTML Library Manager → tạm thời uncheck Minify + Gzip để dev nhanh.
-3. TESTTTTTT aaaa cccc
+3. TESTTTTTT aaa 1111
